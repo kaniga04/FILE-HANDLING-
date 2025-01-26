@@ -21,3 +21,7 @@ File Writing
 File Reading
 
 In conclusion, this program serves as a foundational step toward mastering file handling in Java, offering both functionality and learning opportunities. It is a great example of how technology and online resources can come together to foster skill development and innovation.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/b2b3d50a-b70e-4276-af5e-19419f30e927)
